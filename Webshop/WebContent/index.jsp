@@ -7,6 +7,30 @@
 <title>Bauzubehör HVH</title>
 </head>
 <body>
+<div id="Wrapper">
+	<div id="Header">
+		
+		
+	</div>
+	<div id="Menu">
+		<ul>
+			<li>Home</li>
+		</ul>
+	
+	</div>
+	<div id="Content">
+	
+	
+	
+	</div>
+	<div id="Footer">
+	
+	
+	</div>
+</div>
+
+
+
 Hallo
 </body>
 </html>
